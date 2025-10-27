@@ -80,13 +80,6 @@ PUT /api/books/:id
 }
 ```
 
-## Pengujian dengan Postman
-
-- Import koleksi: `postman/Books API.postman_collection.json`
-- Variabel `baseUrl` default: `http://localhost:3000/api`
-- Lakukan request untuk masing-masing endpoint.
-- Simpan screenshot hasil uji di folder `screenshots/` lalu pastikan ikut di-commit ke GitHub.
-
 ## Pengujian dengan Thunder Client (Screenshots)
 
 Di bawah ini adalah hasil uji endpoint menggunakan Thunder Client (ekstensi bawaan VS Code). Setiap gambar menunjukkan request dan response yang sesuai dengan endpoint.
